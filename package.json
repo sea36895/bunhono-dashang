@@ -1,6 +1,6 @@
 {
   "name": "bunhono-dashang",
-  "module": "index.ts",
+  "module": "src/index.ts",
   "type": "module",
   "private": true,
   "devDependencies": {
