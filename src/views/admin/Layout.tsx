@@ -1,6 +1,5 @@
 
-export function Layout(props: { title: string; children: any }) {
-  return (
+export function Layout(props: { title: string; children: any }) { return (
     <html lang="zh-CN">
       <head>
         <meta charset="UTF-8" />
@@ -15,5 +14,5 @@ export function Layout(props: { title: string; children: any }) {
         <main>{props.children}</main>
       </body>
     </html>
-  )
-}
+
+)}
